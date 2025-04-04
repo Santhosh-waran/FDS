@@ -1,0 +1,11 @@
+Date,Time,Temperature (°C),Room Size (m²),Energy Consumption (kWh),Heating Mode,Outside Temperature (°C),Humidity (%),System Efficiency (%),Heating Source
+2025-04-01,08:00,21.0,30,3.5,Auto,10,60,90,Gas
+2025-04-01,09:00,22.0,30,3.8,Auto,12,58,88,Gas
+2025-04-01,10:00,21.5,30,2.9,Auto,15,60,90,Gas
+2025-04-01,11:00,23.0,35,4.0,Manual,18,55,92,Electric
+2025-04-01,12:00,24.0,35,4.3,Manual,20,50,92,Electric
+2025-04-01,13:00,23.0,35,3.7,Auto,22,53,90,Electric
+2025-04-01,14:00,22.5,40,3.6,Auto,25,55,90,Gas
+2025-04-01,15:00,22.0,40,3.4,Auto,28,60,85,Gas
+2025-04-01,16:00,21.5,40,2.8,Auto,30,62,85,Gas
+2025-04-01,17:00,22.0,30,3.2,Manual,12,60,88,Electric
